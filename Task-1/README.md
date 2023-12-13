@@ -9,4 +9,4 @@
 | [Permutation with arrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/R)| [Solution](./Permutation_with_arrays.cpp)|
 | [Is B a subsequence of A](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U)| [Solution](./Is_B_a_subsequence_of_A.cpp)|
 
-![IEEE COMPUTER SOCIETY ZAGAZIG STUDENT CHAPTER](D:\IEEE CS.png)
+![IEEE COMPUTER SOCIETY ZAGAZIG STUDENT CHAPTER](https://github.com/AnisEmad/IEEE-CS-Rookies-2024/assets/58657706/28fddd2d-7709-4705-ae3d-dd5fd78ecad5)
